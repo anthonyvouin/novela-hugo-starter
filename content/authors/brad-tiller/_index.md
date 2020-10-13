@@ -1,8 +1,7 @@
 ---
 title: Brad Tiller
 bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+  Bonjours, vous êtes bien sur la page internet de anthony vouin
 avatar: /images/brad-tiller.jpg
 social:
   - title: github
