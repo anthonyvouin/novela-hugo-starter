@@ -1,7 +1,6 @@
 ---
 title: Dennis Brotzky
-bio: |
-Bojours, vous etes bien sur ma page internet
+bio: Bonjours, vous etes bien sur ma page internet 
 avatar: /images/dennis-brotzky.jpg
 featured: true
 social:
