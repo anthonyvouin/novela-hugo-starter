@@ -1,7 +1,7 @@
 ---
 title: Dennis Brotzky
 bio: Bonjours, vous etes bien sur ma page internet 
-avatar: 
+avatar: /images/photo ville.jpg
 featured: true
 social:
   - title: unsplash
